@@ -13,6 +13,6 @@ Benvenuto/a nella pagina di supporto di Livello Fiumi. Qui puoi trovare le rispo
 **Q:** I dati mostrati nell'app sono attendibili?  
 **A:** L'app utilizza i dati in tempo reale forniti da [Arpae](https://www.arpae.it/it/temi-ambientali/acqua/dati-acque/acque-superficiali/dati-idrometrici-in-tempo-reale-1) sotto licenza licenza Creative Commons Attribution.
 
-## Contattami
+## Contatti
 
 Se hai bisogno di ulteriore assistenza, invia un'email a [lucamorara@hotmail.it](mailto:lucamorara@hotmail.it).
